@@ -1,0 +1,23 @@
+html {
+    scroll-padding: 2rem;
+    scroll-behavior: smooth;
+}
+
+.btnD {
+    border: 1px solid white;
+    box-shadow: 4px 2px 9px 4px grey;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 1.5rem;
+    border-radius: 20px;
+}
+.btnD:active {
+    box-shadow: none;
+    border: 1px gray;
+}
+.foot {
+    width: 100%;
+    padding: 10px;
+    background-color: black;
+    margin-top: 10px;
+}
